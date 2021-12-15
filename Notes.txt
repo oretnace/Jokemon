@@ -1,0 +1,7 @@
+http://stackoverflow.com/questions/15233340/getting-rid-of-n-when-using-readlines
+
+newline = [line.rstrip() for line in open("screen template 78x25 ansi.txt")]
+
+http://stackoverflow.com/questions/3136689/find-and-replace-string-values-in-python-list
+
+words = [w.replace('[br]', '<br />') for w in words]

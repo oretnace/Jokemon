@@ -1,0 +1,219 @@
+########## title: computer(1 - 25)/human(2 - 25)
+ _____________________________________________________________________________ 
+|                                                                             |
+|              ____.         __                                               |
+|             |    |  ____  |  | __  ____    _____    ____    ____            |
+|             |    | /  _ \ |  |/ /_/ __ \  /     \  /  _ \  /    \           |
+|         /\__|    |(  <_> )|    < \  ___/ |  Y Y  \(  <_> )|   |  \          |
+|         \________| \____/ |__|_ \ \___  >|__|_|  / \____/ |___|  /          |
+|                                \/     \/       \/              \/           |
+|                            _    ___   ___  ___  ___                         |
+|                           /_\  / __| / __||_ _||_ _|                        |
+|                          / _ \ \__ \| (__  | |  | |                         |
+|                   __   _/_/_\_\|___/_\___||___||___|_  _                    |
+|                   \ \ / /| __|| _ \/ __||_ _|/ _ \ | \| |                   |
+|                    \ V / | _| |   /\__ \ | || (_) || .` |                   |
+|                     \_/  |___||_|_\|___/|___|\___/ |_|\_|                   |
+|                                                                             |
+|               (Adjust window size to fit screen if necessary)               |
+|                       Type '1' or '2' then press enter.                     |
+|                '1' Starts the Battle, '2' Runs the tutorial.                |
+|_____________________________________________________________________________|
+|                                                                             |
+| >1:[START]         >2:[TUTORIAL]                                            |
+|                                                                             |
+|_____________________________________________________________________________|
+########## tutorial 1: computer(26 - 50)/human(27 - 50)
+ _____________________________________________________________________________ 
+|                                                                             |
+|                                                                             |
+|  Greetings, young Jokemon Tamer! Welcome to the world of Jokemon!           |
+|  Before you experience your first battle, you must learn the controls       |
+|  and rules to navigate your way around this game.                           |
+|                                                                             |
+|  The box that is always at the bottom displays the options you can choose   |
+|  from, and the corresponding number you need to type.                       |
+|                                                                             |
+|  The command line at the very bottom is where you can type your option,     |
+|  then you press enter to choose it.                                         |
+|                                                                             |
+|  If you enter an unrecognisable option, the program will play a sound and   |
+|  the screen won't really change...                                          |
+|                                                                             |
+|  However, if you see '>(ENTER)', all you need to do is press enter to       |
+|  continue. There may be a small bit of info after it telling you what is    |
+|  coming next.                                                               |
+|_____________________________________________________________________________|
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|_____________________________________________________________________________|
+########## tutorial 2: computer(51 - 75)/human(52 -75)
+ _____________________________________________________________________________ 
+|     ________________________________  +--------------------------------+    |
+|    |                               /  | This is where your opponent    |    |
+|    |  FOE JOKEMON                 /   | Jokemon will be.               |    |
+|    |                             /    |                                |    |
+|    |   HP: XX / XX              |     | To win the battle, get the     |    |
+|    |   [====================]   |     | opposing Jokemon's HP (Health  |    |
+|    |                            |     | Points) to zero.               |    |
+|    |  TYPE: XXXXXXX             |     |                                |    |
+|    |____________________________|     +--------------------------------+    |
+|    +--------------------------------+     _____________________________     |
+|    | Your Jokemon will be here.     |    |                             |    |
+|    |                                |    |  YOUR JOKEMON               |    |
+|    | You always get to attack first.|    |                             |    |
+|    |                                |    |   HP: XX / XX               |    |
+|    | The box below shows options or |    |   [====================]    |    |
+|    | what is happening at each      |   /                              |    |
+|    | stage of the battle.           |  /    TYPE: XXXXXXX              |    |
+|    +--------------------------------+ /________________________________|    |
+|_____________________________________________________________________________|
+|                                                                             |
+| >1:[MOVE1]         >2:[MOVE2]         >3:[MOVE3]         >4:[JKMN INFO]     |
+| (These options don't work at the moment, it's just an example)              |
+|_____________________________________________________________________________|
+########## tutorial 2: computer(76 - 100)/human(77 - 100)   
+ _____________________________________________________________________________ 
+|                                        ________________________________     |
+|    +--------------------------------+ |                                |    |
+|    | This is the screen that shows  | | Information about your         |    |
+|    | up when you choose 'JKMN INFO' | | Jokemon's moves will be here.  |    |
+|    | in the battle screen.          | |                                |    |
+|    |                                | | Their attacking moves are the  |    |
+|    | Your Jokemon will be shown     | | same type as them.             |    |
+|    | here.                          | |                                |    |
+|    |                                | | Attacks can deal more damage   |    |
+|    +--------------------------------+ | on your foe, depending on      |    |
+|                                       | their type.                    |    |
+|    +--------------------------------+ |                                |    |
+|    |                                | | ALIEN beats MACHINE            |    |
+|    | A lovely description of your   | | MACHINE beats PLATE            |    |
+|    | Jokemon will be here.          | | PLATE beats ALIEN              |    |
+|    |                                | | Just because. That's Jokemon   |    |
+|    +--------------------------------+ | logic for you.                 |    |
+|                                       |________________________________|    |
+|_____________________________________________________________________________|
+|                                                                             |
+| (When you're done looking at your Jokemon's info,                           |
+|  press enter to go back to the main battle screen)                          |
+|_____________________________________________________________________________|
+########## choose jokemon: computer(101 - 125)/human(102 - 125)
+ _____________________________________________________________________________ 
+|                                                                             |
+|  Choose a Jokemon to view info about it.                                    |
+|                                                                             |
+|  Then type 'CHOOSE' to chooose the currently viewed Jokemon.                |
+|                                                                             |
+|                                                                             |
+|    JKMN-ART-------------------------+ JKMN: JKMN-NAME--+                    |
+|    JKMN-ART-------------------------+                                       |
+|    JKMN-ART-------------------------+ TYPE: TYPE--+                         |
+|    JKMN-ART-------------------------+                                       |
+|    JKMN-ART-------------------------+ JKMN-INFO------------------------+    |
+|    JKMN-ART-------------------------+ JKMN-INFO------------------------+    |
+|    JKMN-ART-------------------------+ JKMN-INFO------------------------+    |
+|    JKMN-ART-------------------------+ JKMN-INFO------------------------+    |
+|    JKMN-ART-------------------------+ JKMN-INFO------------------------+    |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|_____________________________________________________________________________|
+|                                                                             |
+| >1:[BOWLBASAUR]    >2:[STARMANDER]    >3:[QWERTLE]       >4:[CHOOSE]        |
+|                                                                             |
+|_____________________________________________________________________________|
+########## sends out chosen jkmn computer(126 - 150)
+ _____________________________________________________________________________ 
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|    JKMN-ART-------------------------+     _____________________________     |
+|    JKMN-ART-------------------------+    |                             |    |
+|    JKMN-ART-------------------------+    |  JKMN-NAME--+               |    |
+|    JKMN-ART-------------------------+    |                             |    |
+|    JKMN-ART-------------------------+    |   HP: h0 / h1               |    |
+|    JKMN-ART-------------------------+    |   [====================]    |    |
+|    JKMN-ART-------------------------+   /                              |    |
+|    JKMN-ART-------------------------+  /    TYPE: TYPE--+              |    |
+|    JKMN-ART-------------------------+ /________________________________|    |
+|_____________________________________________________________________________|
+|                                                                             |
+| You sent out JKMN-NAME--+                                                   |
+|                                                                             |
+|_____________________________________________________________________________|
+########## foes sends out message, computer 151, main screen, computer(152 - 176)
+| Foe JKMN Tamer CPU sent out JKMN-NAME--+                                    |
+ _____________________________________________________________________________ 
+|     ________________________________  JKMN-ART-------------------------+    |
+|    |                               /  JKMN-ART-------------------------+    |
+|    |  JKMN-NAME--+                /   JKMN-ART-------------------------+    |
+|    |                             /    JKMN-ART-------------------------+    |
+|    |   HP: h0 / h1              |     JKMN-ART-------------------------+    |
+|    |   [====================]   |     JKMN-ART-------------------------+    |
+|    |                            |     JKMN-ART-------------------------+    |
+|    |  TYPE: TYPE--+             |     JKMN-ART-------------------------+    |
+|    |____________________________|     JKMN-ART-------------------------+    |
+|    JKMN-ART-------------------------+     _____________________________     |
+|    JKMN-ART-------------------------+    |                             |    |
+|    JKMN-ART-------------------------+    |  JKMN-NAME--+               |    |
+|    JKMN-ART-------------------------+    |                             |    |
+|    JKMN-ART-------------------------+    |   HP: h0 / h1               |    |
+|    JKMN-ART-------------------------+    |   [====================]    |    |
+|    JKMN-ART-------------------------+   /                              |    |
+|    JKMN-ART-------------------------+  /    TYPE: TYPE--+              |    |
+|    JKMN-ART-------------------------+ /________________________________|    |
+|_____________________________________________________________________________|
+|                                                                             |
+| >1:[MOVE-------+]  >2:[MOVE-------+]  >3:[MOVE-------+]  >4:[JKMN INFO]     |
+|                                                                             |
+|_____________________________________________________________________________|
+########### jkmn info, computer (177 - 201)                 
+ _____________________________________________________________________________ 
+|                                                                             |
+|                                        ________________________________     |
+|    JKMN-ART-------------------------+ |[MOVE-------+]         [M-TYPE+]|    |
+|    JKMN-ART-------------------------+ |                                |    |
+|    JKMN-ART-------------------------+ |MOVE-INFO----------------------+|    |
+|    JKMN-ART-------------------------+ |MOVE-INFO----------------------+|    |
+|    JKMN-ART-------------------------+ |________________________________|    |
+|    JKMN-ART-------------------------+ |[MOVE-------+]         [M-TYPE+]|    |
+|    JKMN-ART-------------------------+ |                                |    |
+|    JKMN-ART-------------------------+ |MOVE-INFO----------------------+|    |
+|    JKMN-ART-------------------------+ |MOVE-INFO----------------------+|    |
+|                                       |________________________________|    |
+|    JKMN-INFO------------------------+ |[MOVE-------+]         [M-TYPE+]|    |
+|    JKMN-INFO------------------------+ |                                |    |
+|    JKMN-INFO------------------------+ |MOVE-INFO----------------------+|    |
+|    JKMN-INFO------------------------+ |MOVE-INFO----------------------+|    |
+|    JKMN-INFO------------------------+ |________________________________|    |
+|                                                                             |
+|_____________________________________________________________________________|
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|_____________________________________________________________________________|
+########## battle messages (202 - 213(14))
+| Your JKMN-NAME--+                                                           |
+| Foe JKMN-NAME--+                                                            |
+| used MOVE-------+]                                                          |
+| It was super effective!                                                     |
+| It wasn't very effective...                                                 |
+| The Foe JKMN fainted! The victory is yours!                                 |
+| Your JKMN fainted! You lost the battle to Foe JKMN Tranier!                 |
+| ...but it can't fit any more food in its bowl!                              |
+| ...it refilled its bowl with food!                                          |
+| The JKMNs switched HPs!                                                     |
+| STARMANDER cleared any connected moves during the process!                  |
+| QWERTLE is protected by ANTI-VIRUS for the next 5 moves!                    |
+| QWERTLE is already protected by ANTI-VIRUS...                               |
+| Your QWERTLE is no longer protected by ANTI-VIRUS...                        |
+| Foe QWERTLE is no longer protected by ANTI-VIRUS...                         |
+| Your BOWLBASAUR lost momentum for BOWL-OUT...                               |
+| Foe BOWLBASAUR lost momentum for BOWL-OUT...                                |
